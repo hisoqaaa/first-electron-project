@@ -1,0 +1,20 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "node-gyp": "^7.1.2",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "electron": "^12.0.2",
+    "electron-rebuild": "^2.3.5"
+  }
+}
